@@ -1,6 +1,6 @@
-# Operating Systems and Networks, Monsoon 2022
+# Operating Systems and Networks, Monsoon 2023
 # Creating a User-defined Interactive Shell Program 
-# Gowlapalli Rohit
+# Tirumareddy Abhishek
 
 >##### All these commands are tested on Ubuntu Version 20.04.3 LTS (Focal Fossa) 
 ```
